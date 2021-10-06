@@ -1,0 +1,16 @@
+{
+    "Config": [
+        {
+            "User_Email":"Replace this with your gmail user ID",
+            "Password" : "Replace this with our Password"
+        },
+        {
+            "Recipient":"Replace this with Receiver's MailId (multiple Ids-space separated)",
+            "Subject": "Automated Mail",
+            "Body":"Hello, World!"
+        },
+        {
+            "DriverPath": "D:\\Projects\\Resources\\chromedriver.exe (Replace this path with the driver path in your PC)"
+        }
+    ]
+}
